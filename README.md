@@ -1,5 +1,3 @@
-<header align="center">
-<img src="Header-removebg-preview.png" align= "center" width="128"/> </header>
 
 # Dumela 👋🏽 Lumela 👋🏽  Habari. Welcome to my GitHub Profile :
 I’m currently working on an exciting Dynamic React Dashboard Project & I'm currently learning the MERN STACK. Feel free to Ask me anything about Mobile & Web development. <br>
