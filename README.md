@@ -1,5 +1,5 @@
 <img src="Header-removebg-preview.png" width="300"/>
-# 💫 Dumela, Lumela, Habari. Welcome to GitHub Profile :
+### 💫 Dumela, Lumela, Habari. Welcome to GitHub Profile :
 👩🏽‍💻 I’m currently working on an exciting Dynamic React Dashboard Project & I'm currently learning the MERN STACK. Feel free to Ask me anything about Mobile & Web development. <br>
 
 ## 🌐 Socials:
