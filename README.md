@@ -1,5 +1,5 @@
 
-# Dumela 👋🏽 Lumela 👋🏽  Habari. Welcome to my GitHub Profile :
+# Dumela 👋🏽 Habari 👋🏽  Welcome to my GitHub Profile :
 Hi, I'm Cathy. Simply put,i love challenges but I love the growth a little more, the innovation💡, and problem solving🧠 a little more. Detoxing from a 4 year under grad coffee spree(its been 3 years)🍵🫖, so I'm a tea girl now. Occassionally need a mild shot of coffee 🦧<br>
 
 ### 🌐 Socials:
