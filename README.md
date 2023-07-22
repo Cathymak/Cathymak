@@ -1,6 +1,6 @@
 
 # 💫 Dumela, Lumela, Habari. Welcome to GitHub Profile :
-👩🏽‍💻📊 I’m currently working on an exciting Dynamic React Dashboard Project
+👩🏽‍💻 I’m currently working on an exciting Dynamic React Dashboard Project
 <br>📇 I’m currently learning the MERN STACK<br> 🧬Ask me about Mobile & Web development <br>
 
 ## 🌐 Socials:
