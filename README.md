@@ -12,7 +12,7 @@ I’m currently working on an exciting Dynamic React Dashboard Project & I'm cur
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Cathymak&theme=jolly&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cathymak&theme=jolly&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Cathymak&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 
