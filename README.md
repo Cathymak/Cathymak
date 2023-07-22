@@ -1,6 +1,6 @@
 
 # Dumela 👋🏽 Habari 👋🏽  Welcome to my GitHub Profile :
-Hi, I'm Cathy. Simply put,i love challenges but I love the growth a little more, the innovation💡, and problem solving🧠 a little more. Detoxing from a 4 year under grad coffee spree(its been 3 years)🍵🫖, so I'm a tea girl now. Occassionally need a mild shot of coffee 🦧<br>
+Hi, I'm Cathy. Simply put,I love challenges but I love the growth a little more, the innovation💡, and problem solving🧠 a little more. Detoxing from a 4 year under grad coffee spree(its been 3 years)🍵🫖, so I'm a tea girl now. Occassionally need a mild shot of coffee 🦧<br>
 
 ### 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/cathymakiwa) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/cathy.makiwa/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/katlego-cathy-makiwa-953135b9/) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/Katlego-Cathy-Makiwa) 
