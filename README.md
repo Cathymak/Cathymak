@@ -1,4 +1,4 @@
-<img src="Talk is cheap1..jpg" width="500"/>
+<img src="Header-removebg-preview.png" width="500"/>
 # 💫 Dumela, Lumela, Habari. Welcome to GitHub Profile :
 👩🏽‍💻 I’m currently working on an exciting Dynamic React Dashboard Project & I'm currently learning the MERN STACK. Feel free to Ask me anything about Mobile & Web development. <br>
 
