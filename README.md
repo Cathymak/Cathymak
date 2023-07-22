@@ -1,5 +1,3 @@
-### Dumela👋Lumela👋 Habari Welcome to my Github Profile. 
-
 <!--
 **Cathymak/Cathymak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
