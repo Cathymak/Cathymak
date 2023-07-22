@@ -2,10 +2,6 @@
 # Dumela 👋🏽 Lumela 👋🏽  Habari. Welcome to my GitHub Profile :
 I’m currently working on an exciting Dynamic React Dashboard Project & I'm currently learning the MERN STACK. Feel free to Ask me anything about Mobile & Web development. <br>
 
----
-[![](https://visitcount.itsvg.in/api?id=Cathymak&icon=9&color=10)](https://visitcount.itsvg.in)
-
-
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/cathymakiwa) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/cathy.makiwa/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/katlego-cathy-makiwa-953135b9/) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/Katlego-Cathy-Makiwa) 
 
