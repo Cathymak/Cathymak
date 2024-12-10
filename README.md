@@ -1,6 +1,6 @@
 
 # Dumela 👋🏽 Welcome to my GitHub Profile :
-Simply put, I love challenges but I love the growth a little more, the innovation and problem solving, a little more. Detoxing from a 4 year undergrad coffee spree (its been 3 years) 🫖 so I'm a tea girl now. Occassionally need a mild shot of coffee.🦧
+Simply put, I love challenges but I love the growth a little more, innovation and problem solving, a little more. Detoxing from a 4 year undergrad coffee spree (its been 3 years). Occassionally need a mild shot of coffee.🦧
 
 Check out my Repos and enjoy yourself.
 <br>
